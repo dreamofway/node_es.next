@@ -12,3 +12,8 @@
 - @babel/preset-env
 
 
+## 개발소스
+-/dev
+
+## 변환소스
+-/dist
